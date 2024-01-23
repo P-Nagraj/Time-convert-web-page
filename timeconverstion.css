@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-image-container {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+    background-size: cover;
+    height: 110vh;
+
+}
+
+.Main-heading {
+    color: White;
+    font-family: "Open Sans";
+    padding: 60px 0px 0px 60px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: White;
+    font-family: "Open Sans";
+    padding-left: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.label-style {
+    color: white;
+    padding-left: 40px;
+    margin-top: 5px;
+    font-weight: bold;
+
+}
+
+.input-style {
+    margin-left: 40px;
+    border-radius: 8px;
+    padding-right: 90px;
+    padding-top: 10px;
+}
+
+.convert-btn {
+    margin-left: 40px;
+    font-family: "Open Sans";
+    color: #000000;
+    border-radius: 8px;
+    padding: 8px 5px 8px 5px;
+
+}
+
+.error-msg {
+    color: white;
+    font-style: italic;
+    padding-left: 40px;
+}
+
+.result-style {
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    text-align: center;
+    border-radius: 7px;
+    border-style: solid;
+    padding: 10px;
+    width: 25vw;
+}
